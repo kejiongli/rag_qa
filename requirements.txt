@@ -1,0 +1,11 @@
+google-cloud-aiplatform
+langchain
+pandas
+google-api-python-client
+streamlit
+pypdf
+faiss-cpu
+transformers
+config
+sympy
+pydantic==1.10.8
